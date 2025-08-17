@@ -1,0 +1,27 @@
+body {
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+}
+
+.logo {
+  width: 80px;
+  height: auto;
+  top: 2rem;
+  left: 48%;
+  border: #f7f7f7 solid 3px;
+}
+
+.navbar {
+  background-color: rgb(110, 65, 42);
+  padding: 1rem 2rem;
+}
+
+.nav-item {
+  padding: 8px;
+  border-radius: 5px;
+  text-transform: lowercase;
+  letter-spacing: 2px;
+}
+
+.nav-item:hover {
+  background-color: rgb(143, 89, 62);
+}
